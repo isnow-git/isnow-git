@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Simon Villers 👋</h1>
 
 <p align="center">
-  <b>Full-Stack Developer</b> — backend systems, web apps & native clients<br>
+  <b>Full-Stack Developer</b>: backend systems, web apps & native clients<br>
   Rust · Java/Spring · C#/.NET · Kotlin · TypeScript · Vue/Nuxt
 </p>
 
@@ -15,13 +15,13 @@
 
 ### 🚀 About me
 
-Full-stack developer who likes building things end to end — from clean backend
+Full-stack developer who likes building things end to end: from clean backend
 architecture to polished native and web clients. I care about correctness,
 security, and keeping systems simple under pressure.
 
-- 🦀 Currently building **[OpenOrchestra](https://github.com/isnow-git/OpenOrchestra)** — a modular, cost-optimized LLM orchestration engine in Rust (local + cloud routing, semantic caching, hybrid RAG, token accounting).
+- 🦀 Currently building **[OpenOrchestra](https://github.com/isnow-git/OpenOrchestra)**: a modular, cost-optimized LLM orchestration engine in Rust (local + cloud routing, semantic caching, hybrid RAG, token accounting).
 - 🔐 Comfortable with auth/security design: JWT (RS256), Argon2id, refresh-token rotation, hexagonal architecture.
-- 📐 Apply clean architecture patterns — Hexagonal, Clean Architecture, MVI.
+- 📐 Apply clean architecture patterns: Hexagonal, Clean Architecture, MVI.
 - 🌍 Based in Belgium. Open to work.
 
 ---
@@ -73,10 +73,10 @@ security, and keeping systems simple under pressure.
 
 | Project | Description | Stack |
 |---------|-------------|-------|
-| **[OpenOrchestra](https://github.com/isnow-git/OpenOrchestra)** | Modular, cost-optimized LLM orchestration engine — local/cloud routing, semantic caching, hybrid RAG, token accounting. | Rust, Ollama, Anthropic, OpenAI |
-| **[keystone-auth](https://github.com/isnow-git/keystone-auth)** | Authentication microservice — RS256 JWT, Argon2id, refresh-token rotation with reuse detection, hexagonal architecture. | Java 21, Spring Boot 3 |
-| **[belgian-eid](https://github.com/isnow-git/belgian-eid)** | .NET 8 SDK for the Belgian eID card — library, Chrome Native Messaging bridge, MV3 extension, Windows installer. | C#, .NET 8 |
-| **[strix](https://github.com/isnow-git/strix)** | Fast, low-memory IPTV player for Android TV — Clean Architecture + MVI. | Kotlin, Compose for TV, Media3 |
+| **[OpenOrchestra](https://github.com/isnow-git/OpenOrchestra)** | Modular, cost-optimized LLM orchestration engine: local/cloud routing, semantic caching, hybrid RAG, token accounting. | Rust, Ollama, Anthropic, OpenAI |
+| **[keystone-auth](https://github.com/isnow-git/keystone-auth)** | Authentication microservice: RS256 JWT, Argon2id, refresh-token rotation with reuse detection, hexagonal architecture. | Java 21, Spring Boot 3 |
+| **[belgian-eid](https://github.com/isnow-git/belgian-eid)** | .NET 8 SDK for the Belgian eID card: library, Chrome Native Messaging bridge, MV3 extension, Windows installer. | C#, .NET 8 |
+| **[strix](https://github.com/isnow-git/strix)** | Fast, low-memory IPTV player for Android TV: Clean Architecture + MVI. | Kotlin, Compose for TV, Media3 |
 
 ---
 
