@@ -6,7 +6,7 @@
 </p>
 
 <p align="center">
-  <a href="mailto:theisnow2606@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
+  <a href="mailto:isnow.professional@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
   <a href="https://github.com/isnow-git"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"></a>
   <img src="https://img.shields.io/badge/Open%20to%20work-2ea44f?style=for-the-badge" alt="Open to work">
 </p>
@@ -91,4 +91,4 @@ security, and keeping systems simple under pressure.
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=isnow-git&hide_border=true&theme=tokyonight" alt="streak">
 </p>
 
-<p align="center"><i>📫 Reach me: <a href="mailto:theisnow2606@gmail.com">theisnow2606@gmail.com</a></i></p>
+<p align="center"><i>📫 Reach me: <a href="mailto:isnow.professional@gmail.com">isnow.professional@gmail.com</a></i></p>
