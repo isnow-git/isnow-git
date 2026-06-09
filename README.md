@@ -80,15 +80,10 @@ security, and keeping systems simple under pressure.
 
 ---
 
-### 📊 GitHub Stats
+### 📊 Most Used Languages
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=isnow-git&show_icons=true&hide_border=true&count_private=true&theme=tokyonight" alt="stats">
   <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=isnow-git&layout=compact&hide_border=true&langs_count=8&theme=tokyonight" alt="top langs">
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=isnow-git&hide_border=true&theme=tokyonight" alt="streak">
 </p>
 
 <p align="center"><i>📫 Reach me: <a href="mailto:isnow.professional@gmail.com">isnow.professional@gmail.com</a></i></p>
